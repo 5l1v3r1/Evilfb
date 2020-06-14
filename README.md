@@ -1,7 +1,7 @@
-# Firecrack :fire:
+# EvilFb :fire:
 
-What is firecrack tools ?
-Firecrack tools are tools for testing and testing on websites or Facebook accounts, conducting<br>
+What is EvilFb tools ?
+Evil Fb tools are tools for testing and testing on websites or Facebook accounts, conducting<br>
 testing on hundreds of Facebook accounts with random accounts and random wordlist, and there are<br>
 for testing websites, such as admin finder and deface with file upload method, and Bing dorking<br>
 to collect Many domains, Bing Dorking is useful if you are collecting a lot of domains.<br>
