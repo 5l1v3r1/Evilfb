@@ -35,7 +35,7 @@ more tools: :point_down:<br>
 **Termux:**
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/Ranginang67/Firecrack`
+* `git clone https://github.com/zahrairshad/Evilfb.git`
 * `cd Firecrack`
 * `pip2 install -r requirements.txt`
 * `python2 firecrack.py`
@@ -45,7 +45,7 @@ more tools: :point_down:<br>
 * `apt-get install python`
 * `apt-get install python-pip`
 * `apt-get install git`
-* `git clone https://github.com/Ranginang67/Firecrack`
+* `git clone https://github.com/zahrairshad/Evilfb.git`
 * `cd Firecrack`
 * `pip install -r requirements.txt`
 * `python firecrack.py`
@@ -60,4 +60,4 @@ NOTE:
 
 # support me
 
-<a href="https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg"> <a href="https://t.me/Msambari"><img src="https://img.shields.io/badge/telegram-Ms.ambari-blue.svg">
+<a href="https://www.youtube.com/Hackerwasi"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg"> <a href="https://instagram.com/__empty254__"><img src="https://img.shields.io/badge/telegram-Ms.ambari-blue.svg">
